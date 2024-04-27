@@ -1,2 +1,7 @@
 Lucas Jesus Santos Silva
+<<<<<<< HEAD
 Engenharia de Software II
+=======
+
+Foi uma aula muito bacana e interessante 
+>>>>>>> feedback
